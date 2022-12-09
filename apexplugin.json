@@ -1,6 +1,6 @@
 {
   "name" : "Guided Tour Pro",
-  "version" : "21.2",
+  "version" : "22.1",
   "description" : "This powerful plug-in allows you to introduce new features or functionality of your application to your users in a direct, easy-to-understand, interactive way. Users are able to learn how to use your application while using it! Create your guided tour using data stored in the application itself or directly in the database... it's completely up to you!",
   "keywords" : ["guided tour","tutorial","help"],
   "homepage" : "https://www.plug-ins-pro.com/",
@@ -20,9 +20,9 @@
     "url" : "https://github.com/plug-ins-pro/guided_tour_pro"
   },
  "oracle" : {
-    "versions" : ["11.2.0.1", "12.x", "18.x", "19.x", "21.x"],
+    "versions" : ["12.x", "18.x", "19.x", "21.x"],
     "apex" : {
-      "versions" : ["19.2.0", "20.1.0", "20.2.0"],
+      "versions" : ["19.2.0", "20.1.0", "20.2.0", "21.1.0", "21.2.0", "22.1.0", "22.2.0"],
       "plugin" : {
         "internalName" : "UNITEDCODES_GUIDED_TOUR",
         "type" : "dynamic action",
