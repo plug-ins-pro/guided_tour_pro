@@ -26,8 +26,8 @@
         "plugin" : {
           "internalName" : "UNITEDCODES_GUIDED_TOUR",
           "type" : "dynamic action",
-          "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/guided_tour_pro/home",
-          "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/513/files/static/v30/united_codes_guided_tour_pro.gif"
+          "demo" : "https://www.united-codes.com/ords/pluginspro_web/r/guided_tour_pro/home",
+          "previewImage" : "https://www.united-codes.com/ords/pluginspro_web/r/513/files/static/v30/united_codes_guided_tour_pro.gif"
         }
       }
     }
